@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
+## FILE PANITIA
 
-You can use the [editor on GitHub](https://github.com/MPLSsmktelkomjakarta/filepanitia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[pembagian kelompok](https://MPLSsmktelkomjakarta.github.com/mpls)
+[download buku panduan MPLS](https://gdurl.com/h2yN/download)
+[download rundown](https://gdurl.com/4hGh/download)
+[download susunan acara](https://gdurl.com/GK3A/download)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
 
-### Markdown
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
 
-```markdown
-Syntax highlighted code block
+<h2>Pembicara Eksternal</h2>
+<table>
+  <tr>
+    <th>Pihak</th>
+    <th>Hari</th>
+    <th>Durasi</th>
+    <th>Waktu</th>
+  </tr>
+  <tr>
+    <td>Suku Dinas</td>
+    <td>Senin</td>
+    <td>20 menit</td>
+    <td>08.25 sd 08.45</td>
+  </tr>
+  <tr>
+    <td>Kesiswaan dan Prestasi</td>
+    <td>Senin</td>
+    <td>30 menit</td>
+    <td>09.30 sd 10.00</td>
+  </tr>
+  <tr>
+    <td>Kurikulum</td>
+    <td>Senin</td>
+    <td>30 menit</td>
+    <td>10.10 sd 10.40</td>
+  </tr>
+  <tr>
+    <td>Administrasi</td>
+    <td>Senin</td>
+    <td>25 menit</td>
+    <td>10.40 sd 11.05</td>
+  </tr>
+  <tr>
+    <td>Cerdas Sosial Media</td>
+    <td>Senin</td>
+    <td>30 menit</td>
+    <td>11.05 sd 11.35
+  </tr>
+  <tr>
+    <td>HuBin</td>
+    <td>Selasa</td>
+    <td>30 menit</td>
+    <td>07.50 sd 08.20</td>
+  </tr>
+  <tr>
+    <td>SarPra dan Wiyata Mandala</td>
+    <td>Selasa</td>
+    <td>30 menit</td>
+    <td>08.20 sd 08.50</td>
+  </tr>
+  <tr>
+    <td>ACT</td>
+    <td>Selasa</td>
+    <td>45 menit</td>
+    <td>09.00 sd 09.45</td>
+  </tr>
+  <tr>
+    <td>Kesehatan</td>
+    <td>Selasa</td>
+    <td>30 menit</td>
+    <td>09.45 sd 10.25</td>
+  </tr>
+  <tr>
+    <td>Kaprodi</td>
+    <td>Rabu</td>
+    <td>30 menit</td>
+    <td>07.40 sd 08.10</td>
+  </tr>
+  <tr>
+    <td>Digital Bisnis</td>
+    <td>Rabu</td>
+    <td>30 menit</td>
+    <td>08.10 sd 08.40</td>
+  </tr>
+</table>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MPLSsmktelkomjakarta/filepanitia/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
