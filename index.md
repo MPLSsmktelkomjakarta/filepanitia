@@ -5,7 +5,7 @@
 <a href="https://gdurl.com/GK3A/download" target="_blank">download susunan acara</a><br/>
 <a href="https://gdurl.com/Mui2/download" target="_blank">download virtual background</a><br/>
 <a href="https://twb.nz/templatempls" target="_blank">twibbon whatsapp</a><br/>
-<a href="https://twb.nz/templatempls" target="_blank">blog osis</a><br/>
+<a href="https://delightmpls2021.blogspot.com/" target="_blank">blog osis</a><br/>
 
 <html>
 <head>
