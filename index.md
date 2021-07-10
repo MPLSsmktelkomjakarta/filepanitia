@@ -1,9 +1,11 @@
 ## FILE PANITIA
-
-[pembagian kelompok](https://MPLSsmktelkomjakarta.github.com/mpls)<br/>
-[download buku panduan MPLS](https://gdurl.com/h2yN/download)</br>
-[download rundown](https://gdurl.com/4hGh/download)</br>
-[download susunan acara](https://gdurl.com/GK3A/download)</br>
+<a href="https://MPLSsmktelkomjakarta.github.com/mpls" target="_blank">pembagian kelompok</a><br/>
+<a href="https://gdurl.com/h2yN/download" target="_blank">download buku panduan MPLS</a><br/>
+<a href="https://gdurl.com/4hGh/download" target="_blank">download rundown</a><br/>
+<a href="https://gdurl.com/GK3A/download" target="_blank">download susunan acara</a><br/>
+<a href="https://gdurl.com/Mui2/download" target="_blank">download virtual background</a><br/>
+<a href="https://twb.nz/templatempls" target="_blank">twibbon whatsapp</a><br/>
+<a href="https://twb.nz/templatempls" target="_blank">blog osis</a><br/>
 
 <html>
 <head>
