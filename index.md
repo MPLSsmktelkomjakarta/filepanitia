@@ -1,11 +1,10 @@
 ## FILE PANITIA
 
-[pembagian kelompok](https://MPLSsmktelkomjakarta.github.com/mpls)
-[download buku panduan MPLS](https://gdurl.com/h2yN/download)
-[download rundown](https://gdurl.com/4hGh/download)
-[download susunan acara](https://gdurl.com/GK3A/download)
+[pembagian kelompok](https://MPLSsmktelkomjakarta.github.com/mpls)</br>
+[download buku panduan MPLS](https://gdurl.com/h2yN/download)</br>
+[download rundown](https://gdurl.com/4hGh/download)</br>
+[download susunan acara](https://gdurl.com/GK3A/download)</br>
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -64,7 +63,7 @@ tr:nth-child(even) {
     <td>Cerdas Sosial Media</td>
     <td>Senin</td>
     <td>30 menit</td>
-    <td>11.05 sd 11.35
+    <td>11.05 sd 11.35</td>
   </tr>
   <tr>
     <td>HuBin</td>
@@ -102,7 +101,4 @@ tr:nth-child(even) {
     <td>30 menit</td>
     <td>08.10 sd 08.40</td>
   </tr>
-</table>
 
-</body>
-</html>
