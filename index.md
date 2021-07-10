@@ -1,6 +1,6 @@
 ## FILE PANITIA
 
-[pembagian kelompok](https://MPLSsmktelkomjakarta.github.com/mpls)</br>
+[pembagian kelompok](https://MPLSsmktelkomjakarta.github.com/mpls)<br/>
 [download buku panduan MPLS](https://gdurl.com/h2yN/download)</br>
 [download rundown](https://gdurl.com/4hGh/download)</br>
 [download susunan acara](https://gdurl.com/GK3A/download)</br>
