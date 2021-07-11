@@ -55,71 +55,83 @@ tr:nth-child(even) {
     <th>Hari</th>
     <th>Durasi</th>
     <th>Waktu</th>
+    <th>Pembicara</th>
   </tr>
   <tr>
-    <td>Suku Dinas</td>
+    <td>Suku Dinas Pendidikan Jakbar</td>
     <td>Senin</td>
     <td>20 menit</td>
     <td>08.25 sd 08.45</td>
+    <td>Bapak Amin Fathur Rohman</td>
   </tr>
   <tr>
     <td>Kesiswaan dan Prestasi</td>
     <td>Senin</td>
     <td>30 menit</td>
     <td>09.30 sd 10.00</td>
+    <td>Bapak Adang Wihanda</td>
   </tr>
   <tr>
     <td>Kaprodi</td>
     <td>Senin</td>
     <td>30 menit</td>
     <td>10.10 sd 10.40</td>
+    <td>Bapak Esha dan Bapak Deky</td>
   </tr>
   <tr>
     <td>Administrasi</td>
     <td>Senin</td>
     <td>25 menit</td>
     <td>10.40 sd 11.05</td>
+    <td>Ibu Windri</td>
   </tr>
   <tr>
     <td>Cerdas Sosial Media</td>
     <td>Senin</td>
     <td>30 menit</td>
     <td>11.05 sd 11.35</td>
+    <td>Bapak Alfi Pangestiawan</td>
   </tr>
   <tr>
     <td>HuBin</td>
     <td>Selasa</td>
     <td>30 menit</td>
     <td>07.50 sd 08.20</td>
+    <td>Ibu Nurul Hadini</hd>
   </tr>
   <tr>
     <td>SarPra dan Wiyata Mandala</td>
     <td>Selasa</td>
     <td>30 menit</td>
     <td>08.20 sd 08.50</td>
+    <td>Bapak Arif</td>
   </tr>
   <tr>
     <td>ACT</td>
     <td>Selasa</td>
     <td>45 menit</td>
     <td>09.00 sd 09.45</td>
+    <td>Bapak Dwi</td>
   </tr>
   <tr>
     <td>Kesehatan</td>
     <td>Selasa</td>
     <td>30 menit</td>
     <td>09.45 sd 10.25</td>
+    <td>(puskesmas)</td>
   </tr>
   <tr>
     <td>Kurikulum</td>
     <td>Rabu</td>
     <td>30 menit</td>
     <td>07.40 sd 08.10</td>
+    <td>Bapak Mubarak Haris</td>
   </tr>
   <tr>
     <td>Digital Bisnis</td>
     <td>Rabu</td>
     <td>30 menit</td>
     <td>08.10 sd 08.40</td>
+    <td>Bapak Ruli Afian</td>
   </tr>
 
