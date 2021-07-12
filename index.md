@@ -135,3 +135,5 @@ tr:nth-child(even) {
     <td>Bapak Ruli Afian</td>
   </tr>
 
+# ABSENSI GURU DAN PANITIA
+  SENIN https://forms.gle/PmDtnhpjrVVmSpQt7
